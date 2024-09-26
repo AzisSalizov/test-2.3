@@ -1,0 +1,12 @@
+#square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-right: 20px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
